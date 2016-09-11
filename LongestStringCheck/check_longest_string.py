@@ -25,7 +25,10 @@ def check_for_longest_substring(test_string):
     for i, j in enumerate(list(test_string)):
         result = sub_string("".join(list(test_string)[i:]))
 
-        if result >= max:
+        if result == max and j <= test_string[index]:
+            max = result
+            index = i
+        elif result > max:
             max = result
             index = i
 
@@ -33,4 +36,4 @@ def check_for_longest_substring(test_string):
 
 
 
-print check_for_longest_substring("aaabzabzcdefghzzzzzzzzzzzazzzzzzzzzzzzzzzzzz")
+print check_for_longest_substring("xxxiiiiiiiiiiaaabb")
