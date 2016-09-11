@@ -1,11 +1,9 @@
-s = "fyihrycjaljqyxs"
+s = "xxxaaaaiiiiabcf"
 
-# initialise tracker variables
 maxLen=0
 current=s[0]
 longest=s[0]
 
-# step through s indices
 for i in range(len(s) - 1):
     if s[i + 1] >= s[i]:
         current += s[i + 1]
