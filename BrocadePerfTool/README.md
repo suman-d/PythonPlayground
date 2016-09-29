@@ -1,6 +1,7 @@
 # Brocade Perf Tool 
 
 This will collect basic performance stats on a particular port and return a csv file. 
+
 Do the following to get started:
 
 - Edit the configuration.py with the required details 
