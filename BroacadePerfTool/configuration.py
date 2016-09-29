@@ -1,8 +1,8 @@
 # General Switch Details
 
-HOSTNAME = "10.192.196.75"
-UNAME = "admin"
-PASSWORD = "Password1"
+HOSTNAME = "x.x.x.x" # Enter the switch IP
+UNAME = "admin" # Enter the username
+PASSWORD = "password" # Enter the password 
 SSHPORT = 22
 
 # Specific Switch Port Details for Performance Stat collectio
