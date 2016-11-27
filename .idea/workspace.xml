@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d37cc47f-4bfc-46f1-9384-62dab1689892" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonPlayground.iml" afterPath="$PROJECT_DIR$/.idea/PythonPlayground.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/ML-Chapter5-checkpoint.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/.ipynb_checkpoints/ML-Chapter5-checkpoint.ipynb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MachineLearning/ML-Chapter5.ipynb" afterPath="$PROJECT_DIR$/MachineLearning/ML-Chapter5.ipynb" />
     </list>
     <ignored path="PythonPlayground.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ML-Chapter5.ipynb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ML-Chapter5.ipynb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/ML-Chapter5.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ML-Chapter4.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/ML-Chapter4.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="3" />
             </state>
           </provider>
         </entry>
@@ -320,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480129616987</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ML">
+      <created>1480229186105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1480229186105</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -359,7 +371,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cpu stat collection for the Target Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cpu stat collection for the Target Test" />
+    <MESSAGE value="ML" />
+    <option name="LAST_COMMIT_MESSAGE" value="ML" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -478,6 +491,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/ML-Chapter4.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="-1" />
         </state>
       </provider>
     </entry>
